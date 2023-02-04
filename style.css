@@ -79,6 +79,7 @@ a:hover{
 section#flor{
     background-image: url(imagens/background001.jpg);
     height: 600px;
+    min-width: 500px;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
