@@ -21,7 +21,7 @@ header{
     font-family:'Passion One', cursive;
     background-color: black;
     color: white;
-    padding: 70px;
+    padding: 30px;
     margin: -10px -20px 0px -20px;
     text-align: center;
 }
@@ -99,11 +99,11 @@ section#letra{
 footer{
     color: white;
     background-color: black;
-    padding: 3px;
+    padding: 2px;
     text-align: center;
-    font-size: 2.5vh;
+    font-size: 1em;
 }
 
 footer > a{
-    font-size: 2.6vh;
+    font-size: 1.5em;
 }
